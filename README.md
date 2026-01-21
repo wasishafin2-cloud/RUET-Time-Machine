@@ -1,11 +1,22 @@
-<div align="center">
+# RUET Time Machine
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+> "The future isn't a mystery. It's a calculation."
 
-  <h1>Built with AI Studio</h2>
+A premium, cinematic web experience designed to project the probabilistic future of a RUET student based on their current academic trajectory and behavioral patterns within the Bangladesh context.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## Overview
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+This application acts as a mirror, not a crystal ball. It aggregates inputs regarding **Department**, **Semester**, **Current CGPA**, **Study Habits**, and **Campus Lifestyle** to generate a realistic 5-year prediction.
 
-</div>
+## Features
+
+- **Bangladesh Context Aware:** Nuanced understanding of the local job market (BCS, Corporate Dhaka), Higher Studies hurdles, and campus culture (Tong, Politics, Backlogs).
+- **Cinematic UI:** A custom "Liquid Mesh" background engine that reacts to cursor movement, overlaid with film grain for an editorial aesthetic.
+- **Psychological Depth:** Moves beyond simple academic metrics to analyze internal states like "Momentum," "Regret," and "Stress."
+- **World-Class Typography:** Utilizing *Manrope* for UI precision and *Playfair Display* for narrative depth.
+
+## Technology
+
+- **Frontend:** React 19
+- **Styling:** Tailwind CSS + Custom Keyframe Animations
+- **Intelligence:** Advanced Generative Language Model (LLM)
